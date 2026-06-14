@@ -1,0 +1,5 @@
+setup.py
+Stock_Portfolio_Performence_Optimization.egg-info/PKG-INFO
+Stock_Portfolio_Performence_Optimization.egg-info/SOURCES.txt
+Stock_Portfolio_Performence_Optimization.egg-info/dependency_links.txt
+Stock_Portfolio_Performence_Optimization.egg-info/top_level.txt

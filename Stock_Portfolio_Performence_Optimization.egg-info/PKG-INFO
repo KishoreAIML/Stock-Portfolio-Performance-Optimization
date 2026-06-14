@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: Stock-Portfolio-Performence-Optimization
+Version: 0.0.1
+Summary: forcasting return and risk using ml, than optimizing portfolio for given assets with high performence.
+Author: Kishore Tirumani
+License: MIT
